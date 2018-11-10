@@ -1,0 +1,4 @@
+I had a 12 page essay due right before Part 2 & 3 deadline, so I could only manage to finish those parts in time. Although I wanted to do the autocomplete/search function by the deadline, I really didn’t have much time to debug their runtime.
+
+Thanks for your understanding!
+Eric
